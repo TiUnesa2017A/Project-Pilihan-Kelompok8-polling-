@@ -1,2 +1,6 @@
-Project-Pilihan-Kelompok8-Polling
-17051204004, 17051204027, 17051204039
+Project Pilihan Kelompok8 : Polling
+
+Anggota :
+Yessy Septiani Yuono	(17051204004)
+Natanael Chrisanta R.	(17051204027)
+Tazkiyatun Nia			  (17051204039)
